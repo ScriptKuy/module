@@ -2,10 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ScriptKuy/module" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-flex; align-items:center; background-color:#24292F; color:white; padding:10px 15px; border-radius:10px; font-weight:bold;">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" style="margin-right:8px;" alt="GitHub"/>
-      ScriptKuy/module
-    </span>
+    <img src="https://img.shields.io/badge/ScriptKuy/module-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
