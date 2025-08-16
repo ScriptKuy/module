@@ -14,8 +14,8 @@ Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang
 Setiap folder adalah kategori modul.  
 Di dalamnya tersedia file:  
 
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobat.svg" width="20" style="fill:#E53E3E;" /> **File PDF**  
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftword.svg" width="20" style="fill:#2563EB;" /> **File Word**  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobat.svg" width="20" style="fill:#E53E3E;" /> **File PDF**  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="20" style="fill:#2563EB;" /> **File Word**  
 
 > Semua file bisa langsung dibaca atau diunduh secara gratis.  
 
@@ -50,13 +50,13 @@ Klik tombol di bawah ini 👇
 Mau edukasi lanjut, info webinar gratis, dan diskusi komunitas? Klik tombol di bawah ini 👇  
 
 <p align="center">
-  <a href="https://wa.me/6288267021844?text=Halo%20saya%20mau%20bergabung%20di%20ScriptKuy%20Community" target="_blank">
+  <a href="https://chat.whatsapp.com/DTralUZzYXBJK6gSoYTtEM?mode=ac_t" target="_blank">
     <img src="https://img.shields.io/badge/ScriptKuy%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://wa.me/6288267021844?text=Halo%20saya%20mau%20bergabung%20di%20Saluran%20ScriptKuy" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb6A4uc4yltXMbefSK07" target="_blank">
     <img src="https://img.shields.io/badge/Saluran%20ScriptKuy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/xxxxxx" target="_blank">
+  <a href="https://discord.gg/89ZCneBfJQ" target="_blank">
     <img src="https://img.shields.io/badge/ScriptKuy%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
