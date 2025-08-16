@@ -16,8 +16,8 @@ Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang
 Setiap folder adalah kategori modul.  
 Di dalamnya tersedia file:  
 
-- ![PDF icon](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-pdf.svg) **File PDF**  
-- ![Word icon](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-word.svg) **File Word**  
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-pdf.svg" width="20" style="fill:#E53E3E;" /> **File PDF**  
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-word.svg" width="20" style="fill:#2563EB;" /> **File Word**  
 
 > Semua file bisa langsung dibaca atau diunduh secara gratis.  
 
