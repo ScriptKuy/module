@@ -1,11 +1,12 @@
 # ​ ScriptKuy Module
 
-<p>
-  Selamat datang di repository 
+<p align="center">
   <a href="https://github.com/ScriptKuy/module" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" alt="GitHub"/>
-    <b>ScriptKuy/module</b>
-  </a> 
+    <span style="display:inline-flex; align-items:center; background-color:#24292F; color:white; padding:10px 15px; border-radius:10px; font-weight:bold;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" style="margin-right:8px;" alt="GitHub"/>
+      ScriptKuy/module
+    </span>
+  </a>
 </p>
 
 Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang dikategorikan berdasarkan folder (misalnya: `Blockchain`, `Networking`, `Programming`, dll).  
