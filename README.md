@@ -1,6 +1,14 @@
+
 # 📚 ScriptKuy Module
 
-Selamat datang di repository **ScriptKuy/module** 🎉  
+<p>
+  Selamat datang di repository 
+  <a href="https://github.com/ScriptKuy/module" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" alt="GitHub"/>
+    <b> ScriptKuy/module</b>
+  </a> 🎉
+</p>
+
 Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang dikategorikan berdasarkan folder (misalnya: `Blockchain`, `Networking`, `Programming`, dll).  
 
 ---
@@ -9,8 +17,8 @@ Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang
 Setiap folder adalah kategori modul.  
 Di dalamnya tersedia file:  
 
-- ![PDF](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg) **File PDF**  
-- ![Word](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg) **File Word**  
+- <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/pdf-file-red-icon.svg" width="20"/> **File PDF**  
+- <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/word-doc-file-icon.svg" width="20"/> **File Word**  
 
 > Semua file bisa langsung dibaca atau diunduh secara gratis.  
 
@@ -46,4 +54,6 @@ Klik tombol di bawah ini 👇
 
 ---
 
-### ❤️ Dibuat oleh [ScriptKuy](https://github.com/ScriptKuy)
+<div align="center">
+  ❤️ Dibuat oleh <a href="https://github.com/ScriptKuy">ScriptKuy</a>
+</div>
