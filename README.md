@@ -1,11 +1,10 @@
-
-# 📚 ScriptKuy Module
+# ​ ScriptKuy Module
 
 <p>
   Selamat datang di repository 
   <a href="https://github.com/ScriptKuy/module" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" alt="GitHub"/>
-    <b> ScriptKuy/module</b>
+    <b>ScriptKuy/module</b>
   </a> 🎉
 </p>
 
@@ -13,18 +12,18 @@ Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang
 
 ---
 
-## 📂 Struktur Repository  
+## ​ Struktur Repository  
 Setiap folder adalah kategori modul.  
 Di dalamnya tersedia file:  
 
-- <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/pdf-file-red-icon.svg" width="20"/> **File PDF**  
-- <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/word-doc-file-icon.svg" width="20"/> **File Word**  
+- ![PDF icon](https://uxwing.com/pdf-icon/?utm_source=chatgpt.com) **File PDF**  
+- ![Word icon](https://uxwing.com/file-word-color-icon/?utm_source=chatgpt.com) **File Word**  
 
 > Semua file bisa langsung dibaca atau diunduh secara gratis.  
 
 ---
 
-## 🚀 Fitur  
+## ​ Fitur  
 ✅ Modul gratis  
 ✅ Tersusun berdasarkan kategori  
 ✅ Format PDF & Word  
@@ -32,7 +31,7 @@ Di dalamnya tersedia file:
 
 ---
 
-## 🤝 Kontribusi  
+## ​ Kontribusi  
 
 Mau **berbagi modul** atau **request modul baru**?  
 Klik tombol di bawah ini 👇  
@@ -48,7 +47,7 @@ Klik tombol di bawah ini 👇
 
 ---
 
-## 📢 Catatan  
+## ​ Catatan  
 - Tidak ada lisensi, semua modul **bebas dipelajari & dishare**.  
 - Jika ingin kontribusi, silakan hubungi via tombol di atas.  
 
