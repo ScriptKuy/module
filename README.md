@@ -5,7 +5,7 @@
   <a href="https://github.com/ScriptKuy/module" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" alt="GitHub"/>
     <b>ScriptKuy/module</b>
-  </a> 🎉
+  </a> 
 </p>
 
 Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang dikategorikan berdasarkan folder (misalnya: `Blockchain`, `Networking`, `Programming`, dll).  
@@ -16,8 +16,8 @@ Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang
 Setiap folder adalah kategori modul.  
 Di dalamnya tersedia file:  
 
-- ![PDF icon](https://uxwing.com/pdf-icon/?utm_source=chatgpt.com) **File PDF**  
-- ![Word icon](https://uxwing.com/file-word-color-icon/?utm_source=chatgpt.com) **File Word**  
+- ![PDF icon](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-pdf.svg) **File PDF**  
+- ![Word icon](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-word.svg) **File Word**  
 
 > Semua file bisa langsung dibaca atau diunduh secara gratis.  
 
