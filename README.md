@@ -11,11 +11,18 @@ Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang
 ---
 
 ## ​ Struktur Repository  
+
 Setiap folder adalah kategori modul.  
 Di dalamnya tersedia file:  
 
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobat.svg" width="20" style="fill:#E53E3E;" /> **File PDF**  
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg" width="20" style="fill:#2563EB;" /> **File Word**  
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/PDF-Red?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Word-Blue?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+  </a>
+</p>
 
 > Semua file bisa langsung dibaca atau diunduh secara gratis.  
 
