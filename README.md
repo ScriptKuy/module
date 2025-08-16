@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang dikategorikan berdasarkan folder (misalnya: `Blockchain`, `Networking`, `Programming`, dll).  
+Repo ini berisi **kumpulan modul gratis** dalam format **PDF** dan **Word** yang dikategorikan berdasarkan folder (misalnya: `blockchain`, `networking`, `programming`, dll).  
 
 ---
 
