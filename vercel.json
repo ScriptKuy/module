@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/blockchain/bitcoin-translate-indonesia", "destination": "/blockchain/bitcoin-translate-indonesia.pdf" }
+  ]
+}
